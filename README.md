@@ -1,5 +1,7 @@
-# INDEX
+#INDEX
+
 Game performance info
+
 CONTENTS
 · Legal warning.
 · RUN! FOR THE FLAG.
